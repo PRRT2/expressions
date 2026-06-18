@@ -6,6 +6,7 @@
 
 * [Beyond the Blunt Instruments](beyond-blunt-instruments.md)
 * [How Many of Us Are There?](how-many-of-us.md)
+* [The Expression Continues](the-expression-continues.md)
 
 ## Visuals & Diagrams
 
