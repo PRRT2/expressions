@@ -1,10 +1,8 @@
 ---
 description: >-
-  PRRT2's leading researcher quietly changed his position over a decade,
-  from cataloguing childhood conditions to describing a lifelong, evolving
-  expression. Why "they'll grow out of it" may be the most dangerous
-  sentence in PRRT2 care, and the open question of whether age of onset
-  predicts which symptoms become permanent.
+  PRRT2's leading researcher quietly changed his position over a decade, from
+  cataloguing childhood conditions to describing a lifelong, evolving
+  expression. Why "they'll grow out of it" may be the most
 layout:
   width: default
   title:
@@ -31,13 +29,15 @@ layout:
 
 _An Expression · June 17, 2026_
 
+<figure><img src=".gitbook/assets/the-expression-continues-cover.jpg" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 **🧭 Foundation Note**
 
 _The PRRT2 Foundation's own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 {% endhint %}
 
-Parents hear this in the same appointment as a PRRT2 diagnosis, almost every time, and it's meant kindly: *"Don't worry — they'll grow out of it."*
+Parents hear this in the same appointment as a PRRT2 diagnosis, almost every time, and it's meant kindly: _"Don't worry — they'll grow out of it."_
 
 It isn't exactly false. A lot of infant seizures do remit. Most childhood movement episodes do fade with age. But the sentence implies something the research doesn't actually back up: that once the episodes stop, the gene is done with the story. We don't think that's true. The literature is starting to agree.
 
@@ -51,7 +51,7 @@ In **2015**, he authored what's still the field's landmark PRRT2 paper, reviewin
 
 By **2018, and updated as recently as July 2024**, his position had moved further. As lead author of the official GeneReviews clinical reference chapter on PRRT2-Related Disorder — the document geneticists and neurologists worldwide consult to diagnose and counsel patients — the language changed again. PRRT2-related disorder now carries three core phenotypes: epilepsy, movement disorder, and migraine, with onset ranging from infancy through adolescence into adulthood. Then the sentence that matters most: as individuals age, they may exhibit one or more of these core phenotypes in various combinations, **either concurrently or sequentially.**
 
-*Concurrently or sequentially.* Not "and then it ends." Not "and then they outgrow it." The gene can keep moving through new forms across an entire life.
+_Concurrently or sequentially._ Not "and then it ends." Not "and then they outgrow it." The gene can keep moving through new forms across an entire life.
 
 A 2025 multi-center study connected to the same GeneReviews lineage pushed the picture further, documenting children whose epilepsy didn't follow the expected script — evolving from self-limited infantile epilepsy into infantile epileptic spasms, developing new sleep-activated abnormalities, or emerging as focal epilepsy in adolescence, long after parents may have been told the worst was behind them.
 
@@ -81,7 +81,7 @@ PRRT2 has two distinct jobs that happen at different points in life. Earlier in 
 
 A 2021 review of PRRT2-associated disorders raised exactly this possibility in print. It noted that the difference in age at onset between PRRT2's epilepsy and movement-disorder phenotypes might reflect an expression pattern shift across different brain regions during development, and pointed out that existing data on where and when PRRT2 is active in the brain comes almost entirely from adult tissue — meaning the field has never really been positioned to detect a critical developmental window even if one exists. A 2021 mouse study built specifically to test age-dependence found exactly that kind of window-dependent effect: the same genetic deletion produced a different severity and character of impairment depending on the precise developmental age it was measured at, with three distinct age-dependent phenotypic windows identified across early life, an adolescence-equivalent age, and adulthood.
 
-If something like this is true in humans, if the developmental moment a circuit gets disrupted determines whether the resulting symptom locks in permanently or stays paroxysmal, it would be one of the more clinically important things left to learn about this gene. It would mean *when* in a life PRRT2 first causes trouble may matter as much as *that* it causes trouble at all.
+If something like this is true in humans, if the developmental moment a circuit gets disrupted determines whether the resulting symptom locks in permanently or stays paroxysmal, it would be one of the more clinically important things left to learn about this gene. It would mean _when_ in a life PRRT2 first causes trouble may matter as much as _that_ it causes trouble at all.
 
 {% hint style="warning" %}
 **🧭 Foundation Note**
@@ -95,7 +95,7 @@ It is also part of why we push so directly for genetic testing whenever PRRT2 is
 
 ## What we think this means for how PRRT2 should be talked about
 
-We're not asking clinicians to frighten families at diagnosis, and we don't think Dr. Ebrahimi-Fakhari's own writing is asking for that either. Reassurance, when it's accurate, matters enormously to a frightened parent in an exam room. What we're asking is for the reassurance to match what the field itself now understands: the episodes of early childhood may resolve. The gene does not graduate. The honest version of the sentence is closer to *"these particular episodes will very likely improve, and we should still watch for the gene to show up again, in a different form, at any point in their life."* That sentence is longer. It's less comforting in the moment. It also keeps a seventeen-year-old's unexplained migraine connected to an answer that already exists in their chart, and leaves room to ask the right question when atypical struggles show up later in life: a dystonic episode that persists, or resurfaces, well into adulthood. The right question, asked early enough, replaces a new diagnostic odyssey with a chart that already has the answer in it.
+We're not asking clinicians to frighten families at diagnosis, and we don't think Dr. Ebrahimi-Fakhari's own writing is asking for that either. Reassurance, when it's accurate, matters enormously to a frightened parent in an exam room. What we're asking is for the reassurance to match what the field itself now understands: the episodes of early childhood may resolve. The gene does not graduate. The honest version of the sentence is closer to _"these particular episodes will very likely improve, and we should still watch for the gene to show up again, in a different form, at any point in their life."_ That sentence is longer. It's less comforting in the moment. It also keeps a seventeen-year-old's unexplained migraine connected to an answer that already exists in their chart, and leaves room to ask the right question when atypical struggles show up later in life: a dystonic episode that persists, or resurfaces, well into adulthood. The right question, asked early enough, replaces a new diagnostic odyssey with a chart that already has the answer in it.
 
 And we want to be fair here, because this isn't really about any one doctor falling short. A rare gene that can present as a seizure in one decade, a movement disorder in another, and a migraine or a voice change in a third is, by its nature, built to slip past standard clinical training. No physician can be expected to carry every rare, evolving presentation of every gene into a fifteen-minute visit. That isn't a failure of individual care. It's a structural gap in how rare disease knowledge moves from research into the exam room. Closing that gap is exactly the work documentation and registries exist to do, and exactly why this Foundation exists: the more clearly this pattern gets named and recorded, the easier that right question becomes to ask, and the earlier in someone's life the answer has a real chance of being found.
 
@@ -110,12 +110,12 @@ The expression doesn't end when the episodes stop. The field is already saying s
 
 ## Sources
 
-* Ebrahimi-Fakhari D, Saffari A, Westenberger A, Klein C. *The evolving spectrum of PRRT2-associated paroxysmal diseases.* **Brain** 138(12):3476–3495, 2015.
-* Yang K, Quiroz V, Ebrahimi-Fakhari D. *PRRT2-Related Disorder.* **GeneReviews®**, University of Washington / NCBI Bookshelf (NBK475803). Initial posting 2018; last update July 4, 2024.
-* Ebrahimi-Fakhari D, Kang KS, Kotzaeridou U, Kohlhase J, Klein C, Assmann BE. *Child Neurology: PRRT2-associated movement disorders and differential diagnoses.* **Neurology** 83(18):1680–1683, 2014.
+* Ebrahimi-Fakhari D, Saffari A, Westenberger A, Klein C. _The evolving spectrum of PRRT2-associated paroxysmal diseases._ **Brain** 138(12):3476–3495, 2015.
+* Yang K, Quiroz V, Ebrahimi-Fakhari D. _PRRT2-Related Disorder._ **GeneReviews®**, University of Washington / NCBI Bookshelf (NBK475803). Initial posting 2018; last update July 4, 2024.
+* Ebrahimi-Fakhari D, Kang KS, Kotzaeridou U, Kohlhase J, Klein C, Assmann BE. _Child Neurology: PRRT2-associated movement disorders and differential diagnoses._ **Neurology** 83(18):1680–1683, 2014.
 * PRRT2-Related Epilepsy study group, citing Yang K, Quiroz V, Ebrahimi-Fakhari D, GeneReviews 2024. **Neurology: Genetics**, 2025.
-* Valente P, Castagna C, Magrinelli F, Tozzi G, Benfenati F, Fassio A. *The Spectrum of PRRT2-Associated Disorders: Update on Clinical Features and Pathophysiology.* **Frontiers in Neurology** 12:629747, 2021.
-* Fay AJ, McMahon T, Im C, Bair-Marshall C, Niesner KJ, Li H, Nelson A, Voglmaier SM, Fu Y-H, Ptáček LJ. *Age-dependent neurological phenotypes in a mouse model of PRRT2-related diseases.* **Neurogenetics** 22(3):171–185, 2021.
+* Valente P, Castagna C, Magrinelli F, Tozzi G, Benfenati F, Fassio A. _The Spectrum of PRRT2-Associated Disorders: Update on Clinical Features and Pathophysiology._ **Frontiers in Neurology** 12:629747, 2021.
+* Fay AJ, McMahon T, Im C, Bair-Marshall C, Niesner KJ, Li H, Nelson A, Voglmaier SM, Fu Y-H, Ptáček LJ. _Age-dependent neurological phenotypes in a mouse model of PRRT2-related diseases._ **Neurogenetics** 22(3):171–185, 2021.
 
 For the complete reference set, see [Official Resources](https://www.prrt2.org/resources/official-resources).
 
