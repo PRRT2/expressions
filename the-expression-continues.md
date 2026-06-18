@@ -3,6 +3,7 @@ description: >-
   PRRT2's leading researcher quietly changed his position over a decade, from
   cataloguing childhood conditions to describing a lifelong, evolving
   expression. Why "they'll grow out of it" may be the most
+hidden: true
 layout:
   width: default
   title:
@@ -118,7 +119,7 @@ The expression doesn't end when the episodes stop. The field is already saying s
 
 * Ebrahimi-Fakhari D, Saffari A, Westenberger A, Klein C. _The evolving spectrum of PRRT2-associated paroxysmal diseases._ **Brain** 138(12):3476–3495, 2015.
 * Yang K, Quiroz V, Ebrahimi-Fakhari D. _PRRT2-Related Disorder._ **GeneReviews®**, University of Washington / NCBI Bookshelf (NBK475803). Initial posting 2018; last update July 4, 2024.
-* Ebrahimi-Fakhari D, Kang KS, Kotzaeridou U, Kohlhase J, Klein C, Assmann BE. _Child Neurology: PRRT2-associated movement disorders and differential diagnoses._ **Neurology** 83(18):1680–1683, 2014. *(Source for the normal interictal exam criterion in classic PKD.)*
+* Ebrahimi-Fakhari D, Kang KS, Kotzaeridou U, Kohlhase J, Klein C, Assmann BE. _Child Neurology: PRRT2-associated movement disorders and differential diagnoses._ **Neurology** 83(18):1680–1683, 2014. _(Source for the normal interictal exam criterion in classic PKD.)_
 * PRRT2-Related Epilepsy study group, citing Yang K, Quiroz V, Ebrahimi-Fakhari D, GeneReviews 2024. **Neurology: Genetics**, 2025.
 * Valente P, Castagna C, Magrinelli F, Tozzi G, Benfenati F, Fassio A. _The Spectrum of PRRT2-Associated Disorders: Update on Clinical Features and Pathophysiology._ **Frontiers in Neurology** 12:629747, 2021.
 * Fay AJ, McMahon T, Im C, Bair-Marshall C, Niesner KJ, Li H, Nelson A, Voglmaier SM, Fu Y-H, Ptáček LJ. _Age-dependent neurological phenotypes in a mouse model of PRRT2-related diseases._ **Neurogenetics** 22(3):171–185, 2021.
