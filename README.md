@@ -18,9 +18,10 @@ The reference sections of this site stay evergreen and carefully cited. These es
 
 ## Join the conversation
 
-Each piece is meant to start a discussion, not end one. If something here resonates — or if you see it differently — that's the point. You can take it up with the community through [Links & Support](https://prrt2.org/resources/links-and-support) or add your own experience on [Patient Stories](https://prrt2.org/living/patient-stories).
+Each piece is meant to start a discussion, not end one. If something here resonates — or if you see it differently — that's the point. You can take it up with the community through [Links & Support](https://www.prrt2.org/resources/links-and-support) or add your own experience on [Patient Stories](https://www.prrt2.org/living-with-prrt2/patient-stories).
 
 ## Articles
 
 * [Beyond the Blunt Instruments](beyond-blunt-instruments.md) — on the lack of targeted PRRT2 drugs, and the real cost of the borrowed ones
 * [How Many of Us Are There?](how-many-of-us.md) — the PRRT2 count, the invisible thousands, and the official number that's almost certainly wrong by an order of magnitude
+* [The Expression Continues](the-expression-continues.md) — how the field's own reference text stopped calling PRRT2 a childhood movement disorder, and why "grow out of it" no longer holds

@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# The Expression Continues
+# The Expression Continues: Why PRRT2 Doesn't End in Childhood
 
 ### How the field's own reference text shifted from "paroxysmal movement disorders" to "related disorder," and why that shift matters more than most parents are ever told
 

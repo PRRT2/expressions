@@ -129,6 +129,7 @@ For the complete reference set, see [Official Resources](https://www.prrt2.org/r
 
 * [Current Literature](https://www.prrt2.org/research/current-literature) — including the recent shift in how the field labels PRRT2's severity
 * [Exploring the Wider Spectrum](https://www.prrt2.org/exploring-the-wider-spectrum) — the cases the count doesn't reflect
+* [The Expression Continues](the-expression-continues.md) — why PRRT2 doesn't end in childhood, and the adults this count keeps missing
 * [Beyond the Blunt Instruments](beyond-blunt-instruments.md) — why the count shapes the treatment landscape
 
 ***
